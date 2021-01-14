@@ -84,7 +84,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I've had worked on a number of projects as my pre-exam obligations, which tremendously helped me in understanding how software is developed from scratch.
+      I've had worked on a number of projects as my pre-exam obligation, which tremendously helped me in understanding how software is developed from scratch.
     assignments:
       - title: Angular-Praktikum
         link: "https://github.com/brometheuss/angular-praktikum"

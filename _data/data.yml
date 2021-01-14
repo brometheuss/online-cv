@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Uros Markov
+    name: Uroš Markov | Web Developer to be
     tagline: Web Developer Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: uros-nbg64@webjeda.com
-    phone: 012 345 6789
+    email: uros-nbg64@hotmail.com
+    #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
     github: brometheuss
@@ -26,39 +26,31 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Serbian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Advanced
 
     interests:
-      - item: Climbing
+      - item: Automotive
         link:
 
-      - item: Snowboarding
+      - item: Crossfit
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
-    title: Career Profile
+    title: Short summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
+    - degree: Software engineer
+      university: ICT College of Applied Studies
+      time: 2015 - Present
+      #details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -66,10 +58,10 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
+    - degree: Computer technician
+      university: Electrical Engineering High School ”Nikola Tesla”
+      time: 2009 - 2014
+      #details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -117,74 +109,48 @@ experiences:
           - Bullet point
 projects:
     title: Projects
-    intro: >
+    #intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: angular-praktikum
+        link: "https://github.com/brometheuss/angular-praktikum"
+        tagline: "Made for a school project, using Angular."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Sumbakalaj
+        link: "https://github.com/brometheuss/sumbakalaj"
+        tagline: "Made for a school project, using ASP.NET. A simple carmarket API."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: PhoneArena
+        link: "https://github.com/brometheuss/phone-arena"
+        tagline: "My first ever webapp using procedural PHP"
+        
+      - title: Cinemaki
+        link: "https://github.com/brometheuss/cinemaki"
+        tagline: "Cinema web app, made as my final year project, using ASP.NET."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#skills:
+    #title: Skills &amp; Proficiency
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #toolset:
+      #- name: Python & Django
+      #  level: 98%
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      #- name: Javascript & jQuery
+      #  level: 98%
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- name: Angular
+       # level: 98%
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+     # - name: HTML5 & CSS
+      #  level: 95%
 
-skills:
-    title: Skills &amp; Proficiency
+     # - name: Ruby on Rails
+       # level: 85%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      #- name: Sketch & Photoshop
+       # level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

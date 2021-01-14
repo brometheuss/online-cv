@@ -31,6 +31,9 @@ sidebar:
 
       - idiom: English
         level: Advanced
+        
+      - idiom: Deutsch
+        level: Beginner
 
     interests:
       - item: Automotive
@@ -41,10 +44,13 @@ sidebar:
 
       - item: Reading
         link:
+        
+        other:
+        - item: Drivers licence (B)
 
 career-profile:
     title: Short summary
-    summary: |
+    summary: Currently finishing my graduation project in ASP.NET and looking for a place to continue developing my skills and become a part of an exciting environment. A teamwork player, enthusiastic, always willing to help out. 
       
 education:
     - degree: Software engineer

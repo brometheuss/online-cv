@@ -79,14 +79,12 @@ experiences:
     - role: Operater
       time: 2018 - Present
       company: Narodna banka Srbije
-      details: |
+      details:
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I've had worked on a number of projects as my pre-exam obligations, which tremendously helped me in understanding how software is developed from scratch.
     assignments:
       - title: Angular-Praktikum
         link: "https://github.com/brometheuss/angular-praktikum"

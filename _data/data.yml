@@ -50,7 +50,7 @@ education:
     - degree: Software engineer
       university: ICT College of Applied Studies
       time: 2015 - Present
-      #details: |
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -61,7 +61,7 @@ education:
     - degree: Computer technician
       university: Electrical Engineering High School ”Nikola Tesla”
       time: 2009 - 2014
-      #details: |
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -109,7 +109,7 @@ experiences:
           - Bullet point
 projects:
     title: Projects
-    #intro: >
+    intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.

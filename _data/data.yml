@@ -86,17 +86,21 @@ projects:
     intro: >
       I've had worked on a number of projects as my pre-exam obligation, which tremendously helped me in understanding how software is developed from scratch.
     assignments:
-      - title: Angular-Praktikum
-        link: "https://github.com/brometheuss/angular-praktikum"
-        tagline: "Made for a school project, using Angular."
-
       - title: Sumbakalaj
         link: "https://github.com/brometheuss/sumbakalaj"
         tagline: "Made for a school project, using ASP.NET. A simple carmarket API."
-
+    
       - title: PhoneArena
         link: "https://github.com/brometheuss/phone-arena"
         tagline: "My first ever webapp using procedural PHP"
+    
+      - title: LaravelMovies
+        link: "https://github.com/brometheuss/laravel-movies"
+        tagline: "Made for my pre-exam project, using PHP framework Laravel."
+        
+      - title: AbgularPraktikum
+        link: "https://github.com/brometheuss/angular-praktikum"
+        tagline: "Made for a school project, using Angular.js"
         
       - title: Cinemaki
         link: "https://github.com/brometheuss/cinemaki"

@@ -35,9 +35,9 @@ sidebar:
       - idiom: Deutsch
         level: Beginner
 
-    interests:
-      - item: Automotive
-        link:
+    #interests:
+      - #item: Automotive
+        #link:
 
       #- item: Crossfit
         #link:
@@ -45,8 +45,8 @@ sidebar:
       #- item: Reading
         #link:
         
-        other:
-        - item: Drivers licence (B)
+        #other:
+        #- item: Drivers licence (B)
 
 career-profile:
     title: Short summary

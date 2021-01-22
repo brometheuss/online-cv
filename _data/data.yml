@@ -83,7 +83,7 @@ projects:
     
       - title: LaravelMovies
         link: "https://github.com/brometheuss/laravel-movies"
-        tagline: "Made for my pre-exam project, using PHP framework Laravel.
+        tagline: "Made for my pre-exam project, using PHP framework Laravel."
         
       - title: Cinemaki
         link: "https://github.com/brometheuss/cinemaki"

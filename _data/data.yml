@@ -83,11 +83,7 @@ projects:
     
       - title: LaravelMovies
         link: "https://github.com/brometheuss/laravel-movies"
-        tagline: "Made for my pre-exam project, using PHP framework Laravel."
-        
-      - title: AbgularPraktikum
-        link: "https://github.com/brometheuss/angular-praktikum"
-        tagline: "Made for a school project, using Angular.js"
+        tagline: "Made for my pre-exam project, using PHP framework Laravel.
         
       - title: Cinemaki
         link: "https://github.com/brometheuss/cinemaki"

@@ -88,7 +88,7 @@ projects:
         
       - title: Cinemaki
         link: "https://github.com/brometheuss/cinemaki"
-        tagline: "Cinema web app, made as my final year project, using ASP.NET."
+        tagline: "Cinema web app, made as my final year project, using ASP.NET Core."
         
       - title: WW2021Levi9
         link: "https://github.com/brometheuss/WW2021.CINEMA"

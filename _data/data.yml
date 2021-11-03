@@ -14,7 +14,7 @@ sidebar:
     email: uros-nbg64@hotmail.com
     phone: 060 3766 938
     #website: blog.webjeda.com #do not add http://
-    #linkedin: alandoe
+    linkedin: Uros Markov
     github: brometheuss
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -64,15 +64,21 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Operater
+    - role: Sekto za platni sistem
       time: October 2018 - July 2021
       company: Narodna banka Srbije
       details:
       
     - role: Internship .NET
-      time: August 2021 - Present
+      time: August 2021 - October 2021
       company: Factory World Wide
       details:
+      
+    - role: .NET Developer
+      time: October 2021 - Present
+      company: Factory World Wide
+      details:
+      
 
 projects:
     title: Projects

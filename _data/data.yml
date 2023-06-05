@@ -41,7 +41,7 @@ career-profile:
 education:
     - degree: Software engineer
       university: ICT College of Applied Studies
-      time: 2015 - Present
+      time: 2015 - 2021
       
     - degree: Computer technician
       university: Electrical Engineering High School ”Nikola Tesla”
@@ -70,11 +70,11 @@ projects:
     assignments:
       - title: Factory World Wide - CISTEP
         link:
-        tagline: "Central Information System for Technical Inspections. Backend web API development using ASP.NET"
+        tagline: "Central Information System for Technical Inspections. Backend web API development using ASP.NET Framework"
         
       - title: Factory World Wide - Gradjevina
         link:
-        tagline: "Collaborated within a team and worked closely with business analysts to design the business logic and develop a complete web application for the administration of a construction business using ASP.NET Core"
+        tagline: "Collaborated within a team and worked closely with business analysts to design the business logic and develop a complete web application for the administration of a construction business using ASP.NET 7"
     
       - title: Levi9 -WW2021Levi9
         link: "https://github.com/brometheuss/WW2021.CINEMA"

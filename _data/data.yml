@@ -37,14 +37,12 @@ sidebar:
 career-profile:
     title: Short summary
     summary: Reliable, hard working individual specialized in backend development. Actively utilizing C# programming language in current projects and looking for new challenges and ways to improve my knowledge.
-    
-    
-      
+     
 education:
-    - degree: Web Developer
+    - degree: Software engineer
       university: ICT College of Applied Studies
-      time: 2015 - 2021
-      details: |
+      time: 2015 - Present
+      #details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -54,8 +52,8 @@ education:
           - Bullet point
     - degree: Computer technician
       university: Electrical Engineering High School ”Nikola Tesla”
-      time: 2010 - 2014
-      details: |
+      time: 2009 - 2014
+      #details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -85,9 +83,11 @@ projects:
       I've had worked on a number of projects as my pre-exam obligation, which tremendously helped me in understanding how software is developed from scratch.
     assignments:
       - title: Factory World Wide - CISTEP
+        link:
         tagline: "Central Information System for Technical Inspections. Backend web API development using ASP.NET"
         
       - title: Factory World Wide - Gradjevina
+        link:
         tagline: "Collaborated within a team and worked closely with business analysts to design the business logic and develop a complete web application for the administration of a construction business using ASP.NET Core"
     
       - title: Levi9 -WW2021Levi9

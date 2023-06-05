@@ -36,7 +36,7 @@ sidebar:
 
 career-profile:
     title: Short summary
-    summary: Recently graduated and looking for a place to continue developing my skills and become a part of an exciting environment. A teamwork player, enthusiastic, always willing to help out. Besides programming, I also enjoy cycling and working out.
+    summary: Reliable, hard working individual specialized in backend development. Actively utilizing C# programming language in current projects and looking for new challenges and ways to improve my knowledge.
     
     
       
@@ -70,14 +70,15 @@ experiences:
       details:
       
     - role: Internship .NET
-      time: August 2021 - October 2021
+      time: July 2021 - October 2021
       company: Factory World Wide
-      details:
+      details: During my internship, I was required to create a simple ORM with MSSQL as my database for demonstration purposes. Afterwards I successfully developed a fairly straight forward parking payment and reservation system utilizing C#, ASP.NET Web API, and ASP.NET MVC and MSSQL.
       
     - role: .NET Developer
       time: October 2021 - Present
       company: Factory World Wide
-      details:
+      details: |
+        
       
 
 projects:

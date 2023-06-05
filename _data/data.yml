@@ -72,7 +72,7 @@ experiences:
       company: Factory World Wide
       details: During my internship, I was required to create a simple ORM with MSSQL as my database for demonstration purposes. Afterwards I successfully developed a fairly straight forward parking payment and reservation system utilizing C#, ASP.NET Web API, and ASP.NET MVC and MSSQL.
     
-   - role: Sektor za platni sistem - Technical support engineer
+    - role: Sektor za platni sistem - Technical support engineer
       time: October 2018 - July 2021
       company: Narodna banka Srbije
       details:   

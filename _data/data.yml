@@ -64,11 +64,6 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Sektor za platni sistem
-      time: October 2018 - July 2021
-      company: Narodna banka Srbije
-      details:
-      
     - role: Internship .NET
       time: July 2021 - October 2021
       company: Factory World Wide
@@ -79,32 +74,43 @@ experiences:
       company: Factory World Wide
       details: I successfully collaborated on a project built from scratch using .NET Framework, where I worked alongside a team to leverage ASP.NET Web API, Redis as a caching mechanism, and Entity Framework as the ORM. This collaborative effort involved designing and developing a robust application with a focus on scalability, performance, and efficient data management.This collaborative experience strengthened my skills in software development, architecture design, API integration, and database management. For my second project I collaborated within a team and worked closely with business analysts to design the business logic and develop parts of the application.
         
-      
+   - role: Sektor za platni sistem - Technical support engineer
+      time: October 2018 - July 2021
+      company: Narodna banka Srbije
+      details:   
 
 projects:
     title: Projects
     intro: >
       I've had worked on a number of projects as my pre-exam obligation, which tremendously helped me in understanding how software is developed from scratch.
     assignments:
-      - title: Sumbakalaj
+      - title: Factory World Wide - CISTEP
+        tagline: "Central Information System for Technical Inspections. Backend web API development using ASP.NET"
+        
+      - title: Factory World Wide - Gradjevina
+        tagline: "Collaborated within a team and worked closely with business analysts to design the business logic and develop a complete web application for the administration of a construction business using ASP.NET Core"
+    
+      - title: Levi9 -WW2021Levi9
+        link: "https://github.com/brometheuss/WW2021.CINEMA"
+        tagline: "Part of the .NET Winter Workshop at Levi9, written using .NET Core and Angular.js, CodeFirst approach."
+    
+      - title: University - Sumbakalaj
         link: "https://github.com/brometheuss/sumbakalaj"
         tagline: "Made for a school project, using ASP.NET. A simple carmarket API."
     
-      - title: PhoneArena
+      - title: University - PhoneArena
         link: "https://github.com/brometheuss/phone-arena"
         tagline: "My first ever webapp using procedural PHP"
     
-      - title: LaravelMovies
+      - title: University - LaravelMovies
         link: "https://github.com/brometheuss/laravel-movies"
         tagline: "Made for my pre-exam project, using PHP framework Laravel."
         
-      - title: Cinemaki
+      - title: University - Cinemaki
         link: "https://github.com/brometheuss/cinemaki"
         tagline: "Cinema web app, made as my final year project, using ASP.NET Core."
         
-      - title: WW2021Levi9
-        link: "https://github.com/brometheuss/WW2021.CINEMA"
-        tagline: "Part of the .NET Winter Workshop at Levi9, written using .NET Core and Angular.js, CodeFirst approach."
+     
 
 #skills:
     #title: Skills &amp; Proficiency

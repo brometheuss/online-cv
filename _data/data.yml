@@ -34,6 +34,16 @@ sidebar:
       - idiom: Deutsch
         level: Beginner
 
+    interests:
+      - item: Automotive
+        link:
+
+      - item: Fitness
+        link:
+
+      - item: Gaming
+        link:
+
 career-profile:
     title: Short summary
     summary: Reliable, hard working individual specialized in backend development. Actively utilizing C# programming language in current projects and looking for new challenges and ways to improve my knowledge.
@@ -68,6 +78,18 @@ projects:
     intro: >
       I've had worked on a number of projects as my pre-exam obligation, which tremendously helped me in understanding how software is developed from scratch.
     assignments:
+      - title: Factory Group - CIS
+        link:
+        tagline: "My ongoing project where we migrated our legacy .NET Frameowrk 4.8 app to .NET 9, creating new modules from scratch and integrating them into a unified system."
+    
+      - title: Factory Group - Energetski portal
+        link:
+        tagline: "Developed a digital transformation portal to replace paper-based processes, streamlining administrative workflows."
+    
+      - title: Factory World Wide - HR Platforma
+        link:
+        tagline: "Co-designed and developed an internal HR platform based on requirements from HR and team leads"
+
       - title: Factory World Wide - CISTEP
         link:
         tagline: "Central Information System for Technical Inspections. Backend web API development using ASP.NET Framework"

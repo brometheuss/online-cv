@@ -61,8 +61,10 @@ experiences:
     - role: .NET Developer
       time: October 2021 - Present
       company: Factory World Wide
-      details: I successfully collaborated on a project built from scratch using .NET Framework, where I worked alongside a team to leverage ASP.NET Web API, Redis as a caching mechanism, and Entity Framework as the ORM. This collaborative effort involved designing and developing a robust application with a focus on scalability, performance, and efficient data management.This collaborative experience strengthened my skills in software development, architecture design, API integration, and database management. For my second project I collaborated within a team and worked closely with business analysts to design the business logic and develop parts of the application.
-        
+      details: Throughout my involvement in numerous projects, from developing applications from scratch to implementing complex systems, I have gained extensive experience in software development. I began with the .NET Framework and later transitioned to .NET Core 8 and 9, which allowed me to become acquainted with contemporary technologies and industry practices. In system implementation, I utilized Redis for data caching, significantly enhancing application performance. To enable efficient data retrieval, I integrated Elasticsearch, facilitating rapid and precise searches across large datasets. Employing YARP (Yet Another Reverse Proxy), I ensured secure and efficient request routing, alongside implementing authentication and authorization mechanisms. For automating background tasks, I employed Hangfire, enabling effective management of asynchronous processes.
+
+Building each project from the ground up has been instrumental in deepening my understanding of system architecture, performance optimization, and scalable application design. This hands-on approach has significantly enhanced my problem-solving abilities and proficiency in applying modern technologies, making me more efficient and independent in my work. 
+      
     - role: Internship .NET
       time: July 2021 - October 2021
       company: Factory World Wide
